@@ -1,0 +1,13 @@
+# Local working material is excluded from this public website repository.
+.DS_Store
+**/.DS_Store
+.env
+.env.*
+!.env.example
+.local/
+docs/
+design-system/
+prototypes/
+node_modules/
+__pycache__/
+*.pyc
